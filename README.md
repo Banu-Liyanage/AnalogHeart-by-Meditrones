@@ -83,10 +83,11 @@ The enclosure was modeled using SolidWorks and designed for:
 ---
 
 ## Contributors
-- **Aazir M.M.M** - Circuit design, enclosure design, and optimization.
-- **Boralugoda M.S** - PCB design, documentation, and testing.
-- **Liyanage D.L.B.B** - Circuit design, PCB assembly, and soldering.
-- **Madusanka S.P.S** - Enclosure design and circuit testing.
+- [@MohamedAazir](https://github.com/MohamedAazir)  - Circuit design, enclosure design, and optimization.
+- [@msboralugoda](https://github.com/msboralugoda)  - PCB design, documentation, and testing.
+- [@Banu-Liyanage](https://github.com/Banu-Liyanage)  -PCB design,Circuit design, PCB assembly.
+- [@Madusanka20](https://github.com/Madusanka20)  - Enclosure design and circuit testing.
+
 
 ---
 
