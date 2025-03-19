@@ -11,5 +11,7 @@ This is the final routed PCB on two layers (Top and Bottom), here the top layer 
 ## 3D-VIEW 
 
 The following figure shows the 3D view of the PCB with the assembled components onto it.
-<img src="https://github.com/user-attachments/assets/db9c2c48-ab3d-406e-94a5-4423f1a02509" alt="Simulated Circuit" width="500">
 
+<img src="https://github.com/user-attachments/assets/db9c2c48-ab3d-406e-94a5-4423f1a02509" alt="Simulated Circuit" width="400">
+
+<img src="https://github.com/user-attachments/assets/df98d67f-a293-4048-aef6-e016502b796e" alt="PCB " width="400">
